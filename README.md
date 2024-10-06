@@ -26,6 +26,5 @@ May the code be with you. Amen 🙏🏻!
   <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt = "Git" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white">
   <img alt = "AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img alt = "GCP" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white">
-  <img alt = "Azure" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white">
+  <img alt = "Azure" src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev">
 </p>
