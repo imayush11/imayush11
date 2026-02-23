@@ -1,4 +1,4 @@
-### Hey 👋🏻, Ayush here — I build AI that actually *does stuff* 🤖✨
+### Hey 👋🏻, Ayush here.. I build AI that actually *does stuff* 🤖✨
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ayusharmadev11.github.io/)
 [![Gmail](https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayusharma.dev11@gmail.com)
@@ -16,7 +16,7 @@ I’m a **Generative AI Engineer** who lives and breathes:
 - AI automation ⚙️
 - ML/DL models that actually ship 🚀
 
-I build **production-grade AI systems** — from agentic workflows and LLM platforms to ML pipelines that solve real business problems (and occasionally create new ones 😄).
+I build **production grade AI systems** from agentic workflows and LLM platforms to ML pipelines that solve real business problems (and occasionally create new ones 😄).
 
 If it involves:
 > **LLMs, reasoning, orchestration, retrieval, tools, memory, or automation**  
@@ -26,8 +26,8 @@ If it involves:
 
 ## 🔥 Current obsessions
 
-- 🧩 Agentic AI systems & multi-agent workflows  
-- 🧠 LLM orchestration, memory, planning & tool-use  
+- 🧩 Agentic AI systems & multi agent workflows  
+- 🧠 LLM orchestration, memory, planning & tool use  
 - 📚 RAG, vector search, evaluation & hallucination control  
 - 🛠️ Building AI products, not just demos  
 - ⚡ Making boring workflows disappear with automation  
@@ -84,7 +84,6 @@ If it involves:
 <p>
   <img alt="Git" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white">
   <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
-  <img alt="Dialogflow" src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white">
   <img alt="Gemini" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
 </p>
 
@@ -101,4 +100,4 @@ Open to:
 
 ---
 
-<p align="center"><i>“May your models converge and your agents not hallucinate.”</i> 🙏🏻🤖</p>
+<p align="center"><i>“May your models converge and your agents not hallucinate.” ~The ADHD Dev.</i> 🙏🏻🤖</p>
